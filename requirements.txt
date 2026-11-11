@@ -1,0 +1,13 @@
+# Versions verified to run the notebook end to end (November 2026).
+# The original submissions were made with older versions. XGBoost
+# predictions vary by about 1% between versions; see README.
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+catboost==1.2.10
+vaderSentiment==3.3.2
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter
