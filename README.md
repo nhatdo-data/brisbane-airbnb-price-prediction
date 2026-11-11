@@ -6,9 +6,9 @@ Team **BUSA8001_HTQ**
 
 | Member | Responsibility |
 |---|---|
-| Pham Khanh Quynh Nguyen | Task 1: problem framing and EDA |
+| Member 1 | Task 1: problem framing and EDA |
 | Nhat Thanh Thuy Do | Task 2: data cleaning and feature engineering |
-| Thi Huyen Nguyen (team leader) | Task 3: modelling, tuning and submission |
+| Member 2 (team leader) | Task 3: modelling, tuning and submission |
 
 We predict the nightly price (AUD) of Brisbane Airbnb listings from property, host, location, availability and review data. Submissions are scored by **Mean Absolute Percentage Error (MAPE)**.
 
